@@ -12,9 +12,11 @@ Clone the repo to learn how to create basic GUI Desktop applications using pytho
 ![pop2](/images/pop2.png)
 ![pop3](/images/pop3.png)
 
+
 * Image Viewer App
 ![ImageViewer](/images/IV1.png)
 ![ImageViewer](/images/IV2.png)
+
 
 * Greets you with your name
 ![input](/images/input.png)
