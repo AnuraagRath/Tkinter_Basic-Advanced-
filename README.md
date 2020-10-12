@@ -3,7 +3,7 @@ Just a few very basic python Tkinter programs for beginners to create simple GUI
 
 Clone the repo to learn how to create basic GUI Desktop applications using python's own tkinter
 
-# Few Intermediate Desktop Apps include
+# Few Basic/Intermediate Desktop Apps include
 * Your own Calculator
 
 ![Calc](/images/Calc.png)
