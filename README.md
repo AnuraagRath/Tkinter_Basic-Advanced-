@@ -1,4 +1,7 @@
 # Tkinter_Basics-Intermediate
+
+<img src = "https://media.giphy.com/media/3o85xFdBA27p6TJWgM/giphy.gif">
+
 Just a few very basic python Tkinter programs for beginners to create simple GUI Desktop applications.
 
 Clone the repo to learn how to create basic GUI Desktop applications using python's own tkinter
